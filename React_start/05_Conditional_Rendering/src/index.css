@@ -1,0 +1,28 @@
+.welcome-message{
+    font-family:Helvetica, sans-serif;
+    color:black;
+    background-color: rgb(40, 210, 40);
+    border: 2px solid rgba(255, 255, 255, 0.463);
+    box-shadow: 5px 5px 5px grey;
+    display: inline;
+    border-radius: 10px;
+    padding: 10px 10px;
+    cursor: pointer;
+    
+}
+.login-message{
+    font-family:Helvetica, sans-serif;
+    color:black;
+    background-color: rgba(222, 97, 29, 0.832);
+    border: 2px solid rgba(231, 30, 200, 0.829);
+    box-shadow: 5px 5px 5px grey;
+    display: inline;
+    border-radius: 10px;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
