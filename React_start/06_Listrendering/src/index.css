@@ -1,0 +1,22 @@
+.list-category{
+    background-color: rgba(39, 222, 29, 0.74);
+    color: rgba(0, 0, 0, 0.714);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: darkslategrey;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px tomato;
+}
+.list-items li{
+    font: italic;
+    margin: 0;
+    color: rgba(0, 0, 0, 0.761);
+    text-align: center;
+    list-style: none;
+}
+.list-items li:hover{
+    cursor: pointer;
+    color: rgb(43, 43, 43);
+}
