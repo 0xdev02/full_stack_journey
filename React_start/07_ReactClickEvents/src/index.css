@@ -1,0 +1,14 @@
+.Button{
+    background-color: rgba(39, 222, 29, 0.74);
+    color: rgba(0, 0, 0, 0.714);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: darkslategrey;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px tomato;
+}
+img{
+    height: 200px;
+}
